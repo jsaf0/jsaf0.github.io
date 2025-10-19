@@ -7,7 +7,7 @@ domain: jsaf.dk
 url: "https://jsaf.dk"
 github_username:  jsaf0
 
-theme: no-style-please
+remote_theme: riggraz/no-style-please
 
 theme_config:
   appearance: "light"
